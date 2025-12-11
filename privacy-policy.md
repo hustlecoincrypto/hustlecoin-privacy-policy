@@ -26,6 +26,17 @@ We use information to:
 
 We do not sell or share user data with third parties.
 Information may be shared only for required services, such as mobile airtime recharge or ZBD withdrawals.
+Identity Verification for Withdrawals
+
+We may request limited identity information only when a user performs a withdrawal or claims rewards, including:
+
+Name or nickname
+
+Phone number
+
+Wallet address (e.g., ZBD or crypto wallet)
+
+Proof of ownership if suspicious activity occurs
 
 4. Storage & Security
 
